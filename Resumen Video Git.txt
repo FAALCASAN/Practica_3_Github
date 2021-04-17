@@ -1,0 +1,23 @@
+https://www.youtube.com/watch?v=hWglK8nWh60&t=468s
+
+001-(4:30) git version --> comando para conocer que versión tenemos de git
+002-(5:25) git init --> comango para crear repositorio y solo se hace una vez por repositorio
+003-(7:55) git status -s --> comando para ver esl estado de los archivos
+004-(9:00) git add "nombre del archivo que le queremos hacer seguimiento" --> comando para hacer un seguimiento a un archivo los tenemos que pasar al sting area 
+005-(10:50) git commit -m "Nombre como se va a llamar el commit o cambio que se ha hecho"
+006-(12:50) git add . --> comando para hacer seguimiento a todos los archivos de la carpeta que le hemos creado el repositorio
+007-(14:40) cada vez que hagamos un cambio primero lo enviamos al sting area o area temporal no lo podemos enviar de una al repositorio local de una primero tiene que pasar al area local
+008-(
+
+
+
+
+comandos de github
+
+001-(4:30) git version --> comando para conocer que versión tenemos de git
+002-(5:25) git init --> comango para crear repositorio y solo se hace una vez por repositorio
+003-(7:55) git status -s --> comando para ver esl estado de los archivos y si sale con dos ?? de color rojo nos dice que los archivos no tienen seguimiento
+004-(9:00) git add "nombre del archivo que le queremos hacer seguimiento" --> comando para hacer un seguimiento a un archivo los tenemos que pasar al sting area 
+005-(10:50) git commit -m "Nombre como se va a llamar el commit o cambio que se ha hecho"
+006-(12:50) git add . --> comando para hacer seguimiento a todos los archivos de la carpeta que le hemos creado el repositorio
+
